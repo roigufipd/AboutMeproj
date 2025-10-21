@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Dominic Awatin</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi! I’m Dominic a college student majoring in Information Technology. I’m passionate about learning how technology connects people and makes life easier. Outside of classes, I love hanging out with friends, playing online games, and grabbing late-night coffee during study sessions. I’m always up for learning something new — whether it’s coding a small project, exploring new music, or trying out a random hobby just for fun.</string>
+    <string name="bio2">Hi! I’m Casey Morales, a college student majoring in Information Technology. I’m passionate about learning how technology connects people and makes life easier. Outside of classes, I love hanging out with friends, playing online games, and grabbing late-night coffee during study sessions. /n/n/nI’m always up for learning something new — whether it’s coding a small project, exploring new music, or trying out a random hobby just for fun.</string>
+    <string name="bio3">Hi! I’m Casey Morales, a college student majoring in Information Technology. /n/n/nI’m passionate about learning how technology connects people and makes life easier. Outside of classes, I love hanging out with friends, playing online games, and grabbing late-night coffee during study sessions. I’m always up for learning something new — whether it’s coding a small project, exploring new music, or trying out a random hobby just for fun.</string>
+    <string name="menu_edit">Menu edit</string>
 </resources>
